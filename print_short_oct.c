@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 /**
  * prinhoct - prints long decimal number in octal
